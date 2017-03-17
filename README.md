@@ -1,9 +1,8 @@
 # Example Binder with a Dockerfile
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-dockerfile)
-
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/docross/normal_distributions)
 A Binder-compatibible repository that contains its own `Dockerfile`.
 
 Your `Dockerfile` just needs to extend from the [`base`](https://github.com/binder-project/binder-build-core/blob/master/images/base/Dockerfile) image for Binder.
 
-In this example our Dockerfile installs the Julia language and  packages for use with with the Jupyter notebook. Just by adding these steps, we get a Binder that includes Julia as a kernel.
+In this example the Dockerfile is largely a placeholder.
